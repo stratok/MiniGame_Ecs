@@ -38,7 +38,8 @@ namespace Minigames.Bubbles
                 }
                 else
                 {
-                    PostUpdateCommands.RemoveComponent(targetEntity, typeof(HasTarget));
+					rotation.Value.value.y = 0;
+					PostUpdateCommands.RemoveComponent(targetEntity, typeof(HasTarget));
                 }
             });
         }
