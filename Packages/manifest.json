@@ -1,6 +1,5 @@
 {
   "dependencies": {
-<<<<<<< HEAD
     "com.unity.burst": "1.0.4",
     "com.unity.entities": "0.0.12-preview.33",
     "com.unity.jobs": "0.0.7-preview.13",
@@ -8,17 +7,6 @@
     "com.unity.package-manager-ui": "2.1.2",
     "com.unity.rendering.hybrid": "0.0.1-preview.13",
     "com.unity.textmeshpro": "2.0.1",
-=======
-    "com.unity.ads": "2.0.8",
-    "com.unity.analytics": "3.3.2",
-    "com.unity.collab-proxy": "1.2.16",
-    "com.unity.entities": "0.1.0-preview",
-    "com.unity.package-manager-ui": "2.1.2",
-    "com.unity.purchasing": "2.0.6",
-    "com.unity.rendering.hybrid": "0.1.0-preview",
-    "com.unity.textmeshpro": "2.0.1",
-    "com.unity.timeline": "1.0.0",
->>>>>>> c43351c08578072f5b89e1139b083abc61555593
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",

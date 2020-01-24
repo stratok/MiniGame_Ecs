@@ -4,11 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 16
-<<<<<<< HEAD
   productGUID: 6854dc3455e26094a843ccc04546bc0b
-=======
-  productGUID: 41af18641efaf96419a56e50c249d689
->>>>>>> c43351c08578072f5b89e1139b083abc61555593
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -17,11 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-<<<<<<< HEAD
   productName: Bubbles
-=======
-  productName: MiniGame_Ecs2
->>>>>>> c43351c08578072f5b89e1139b083abc61555593
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -43,26 +42,3 @@ sysinfo.txt
 /AssetBundles
 /Assets/StreamingAssets/Bundles
 /Assets/StreamingAssets/Bundles.meta
-=======
-/[Ll]ibrary/
-/[Ll]ogs/
-/[Oo]bj/
-/[Tt]emp/
-
-.vscode/
-.vs/
-
-*.csproj
-*.sln
-*.suo
-*.tmp
-*.userprefs
-*.app
-.idea/
-*.VC.*
-.DS_Store
-*~
-*.swp
-
-*.log
->>>>>>> c43351c08578072f5b89e1139b083abc61555593
